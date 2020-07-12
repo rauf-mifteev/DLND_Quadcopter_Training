@@ -24,4 +24,4 @@ Clone this repository
 ## Run the Code
 Navigate to the cloned directories location and start jupyter notebook with dog_app.ipynb
 
-`jupyter notebook dog_app.ipynb`
+`jupyter notebook Quadcopter_Project.ipynb`
