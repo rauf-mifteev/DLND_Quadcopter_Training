@@ -19,7 +19,7 @@ You can install everything you need to run this project with [Anaconda](https://
 ## Installing
 Clone this repository
 
-`git clone https://github.com/rauf-mifteev/DLND_Dog_Classifier.git`
+`git clone https://github.com/rauf-mifteev/MLND_Quadcopter_Training.git`
 
 ## Run the Code
 Navigate to the cloned directories location and start jupyter notebook with dog_app.ipynb
