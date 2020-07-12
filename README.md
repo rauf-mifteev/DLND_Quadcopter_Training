@@ -1,4 +1,4 @@
-# Quadcopter Training Project for Udacity Machine Learning Engineer Nanodedree 
+# Quadcopter Training Project for Udacity Deep Learning Nanodedree 
 
 ## Project overview
 This is dog breed classifier project for Udacity's Machine Learning Engineer Nanodegree program. In this project, I build and train **Reinforcement Learning** model in **Jupiter Notebook** using **Keras** . This code must be able to:
@@ -19,9 +19,9 @@ You can install everything you need to run this project with [Anaconda](https://
 ## Installing
 Clone this repository
 
-`git clone https://github.com/rauf-mifteev/MLND_Quadcopter_Training.git`
+`git clone https://github.com/rauf-mifteev/DLND_Quadcopter_Training.git`
 
 ## Run the Code
-Navigate to the cloned directories location and start jupyter notebook with dog_app.ipynb
+Navigate to the cloned directories location and start jupyter notebook with Quadcopter_Project.ipynb
 
 `jupyter notebook Quadcopter_Project.ipynb`
