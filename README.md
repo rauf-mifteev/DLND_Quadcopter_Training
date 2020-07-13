@@ -1,7 +1,7 @@
 # Quadcopter Training Project for Udacity Deep Learning Nanodedree 
 
 ## Project overview
-This is dog breed classifier project for Udacity's Machine Learning Engineer Nanodegree program. In this project, I build and train **Reinforcement Learning** model in **Jupiter Notebook** using **Keras** . This code must be able to:
+This is Quadcopter Training project for Udacity's Deep Learning Nanodegree program. In this project, I build and train **Reinforcement Learning** model in **Jupiter Notebook** using **Keras** . This code must be able to:
 
 
 ## Prerequisites
@@ -9,7 +9,6 @@ The code is **Python** in a **Jupyter Notebook** and it uses:
 
 * [Keras](https://keras.io/)
 * [Tensorflow](https://www.tensorflow.org/)
-* [SciKit-learn](https://scikit-learn.org/stable/)
 * [Pandas](https://pandas.pydata.org/)
 * [Matplotlib](https://matplotlib.org/)
 * [NumPy](http://www.numpy.org/)
