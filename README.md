@@ -8,7 +8,6 @@ This is Quadcopter Training project for Udacity's Deep Learning Nanodegree progr
 The code is **Python** in a **Jupyter Notebook** and it uses:
 
 * [Keras](https://keras.io/)
-* [Tensorflow](https://www.tensorflow.org/)
 * [Pandas](https://pandas.pydata.org/)
 * [Matplotlib](https://matplotlib.org/)
 * [NumPy](http://www.numpy.org/)
