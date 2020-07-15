@@ -1,7 +1,7 @@
 # Quadcopter Training Project for Udacity Deep Learning Nanodedree 
 
 ## Project overview
-This is Quadcopter Training project for Udacity's Deep Learning Nanodegree program. In this project, I build and train **Reinforcement Learning** model in **Jupiter Notebook** using **Keras** . This code must be able to:
+This is Quadcopter Training project for Udacity's Deep Learning Nanodegree program. In this project, I build and train **Reinforcement Learning** model in **Jupiter Notebook** using **Keras**. This code must be able to:
 
 
 ## Prerequisites
