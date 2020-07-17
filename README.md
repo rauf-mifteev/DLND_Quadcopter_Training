@@ -3,8 +3,8 @@
 ## Project overview
 This is Quadcopter Training project for Udacity's Deep Learning Nanodegree program. In this project, I build and train **Reinforcement Learning** agent in **Jupiter Notebook** using **Keras**. This project contains two files:
 
-* Task.py
-* Agent.py
+* task.py
+* agent.py
 
 
 ## Prerequisites
